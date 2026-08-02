@@ -3,5 +3,4 @@
 
 print("Hello, World!")
 
-#OUTPUT
-# Hello, World!
+print(5)
